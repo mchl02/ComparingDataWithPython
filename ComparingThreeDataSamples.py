@@ -19,10 +19,10 @@ from math import *
 
 """so to plot for the x axis it is just going to be numbers 1- 240""" 
 
-#file_name = "/Users/kclee/Dropbox/pyprac/testdata4.txt"
-file_name1 = "/Users/kclee/Dropbox/pyprac/testdata4e4.txt"
-file_name2 = "/Users/kclee/Dropbox/pyprac/testdata4e4-comp.txt"
-file_name3 = "/Users/kclee/Dropbox/pyprac/testdata4e4-reconst.txt"
+#file_name = "/Users/MLee/Desktop/testdata4.txt"
+file_name1 = "/Users/MLee/Desktop/testdata4.txt"
+file_name2 = "/Users/MLee/Desktop/testdata4-comp.txt"
+file_name3 = "/Users/MLee/Desktop/testdata4-reconst.txt"
 
 #My Lists are below
 x_axis = []
